@@ -1,1 +1,1 @@
-Use appliances intelligently at your home
+Assignment 1 & 2 in Energy Informatics 
